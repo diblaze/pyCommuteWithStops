@@ -1,3 +1,6 @@
+# Don't track API files.
+APIKeys*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
